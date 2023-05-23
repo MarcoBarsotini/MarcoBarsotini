@@ -30,10 +30,10 @@
  # About me
  
 <p>
- <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
+ <img align="right" width="350" src="/assets/imagem.png" alt="Coding guy" />
   
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
- ❤️ &emsp; Love to writing code and learning new features<br/><br/>
+ ❤️ &emsp; Love to writing code and learning CyberSecurity<br/><br/>
  📧 &emsp; Reach me anytime: marcobarsotini@gmail.com<br/><br/>
  💬 &emsp; Ask me about anything [here](https://discordapp.com/users/342386567756644363)
 
