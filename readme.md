@@ -22,7 +22,7 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank">Marco Barsotini</a></b>
+                <b><a target="_blank" href="https://www.instagram.com/marcobarsotini/">Marco Barsotini</a></b>
         </samp>
 </h3>
 
